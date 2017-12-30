@@ -1,10 +1,22 @@
 ---
 layout: post
-title: You're up and running!
+title: An Introduction To LibreHealth
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+LibreHealth is an amazing collaborative community providing free and open source software projects. What makes LibreHealth different from others? Well, LibreHealth works in Medical fields providing open source projects in Health IT. Currently it has three projects. Let us get introduced to these projects!
+LibreHealth is an amazing collaborative community providing free and open source software projects. What makes LibreHealth different from others? Well, LibreHealth works in Medical fields providing open source projects in Health IT. Currently it has three projects. Let us get introduced to these projects!
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+1.LibreHealth Toolkit :
+
+The toolkit software acts like a data model for many other Health IT applications. It is easy to install and use. Scalable is one of the features of toolkit as it runs on Windows, Linux and OSX. It also runs on mobiles alongside desktop and laptop. Toolkit is built for quick healthcare and is used by clinicians, nurses and even midwives and is available in eight different languages. LibreHealth Toolkit currently has two versions- LibreHealth Toolkit LTS 1.12.0 and LibreHealth Toolkit LTS 2.0.0. This software is user friendly and is there to succor.
+
+2.LibreHealth EHR : 
+
+LibreHealth EHR (Electronic Health Record) is an application which is focused clinically in electronic health record system. It is designed to be both easy to use and customizable in different health care settings. It is builds on the strength of LibreHealth Toolkit and its "easy-to-use" feature made it more famous among healthcare professionals in their daily work.
+
+3.LibreHealth Radiology :
+
+LibreHealth Radiology is a customized version of LibreHealth Toolkit with additional tools. It aims in adding capabilities in a Radiology Information System into LibreHealth Toolkit. Starting from placing radiology orders to satisfying module's quality parameters are included in the features of LibreHealth Radiology. Though the module is not released yet, but the LibreHealth Team is working very hard on first release.
+
+LibreHealth is a health IT system with a view to improving care of patients. The projects act like patient advocates and helps in developing health systems.
