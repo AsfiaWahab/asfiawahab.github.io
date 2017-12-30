@@ -1,5 +1,6 @@
- ---
- An Introduction To LibreHealth
+---
+layout : post :
+ title : An Introduction To LibreHealth
 ---
 LibreHealth is an amazing collaborative community for free and open source software projects in Health IT and also a member project of Software Freedom Conservancy. What makes LibreHealth different from others? Well, LibreHealth works in Medical fields providing open source projects in Health IT. Currently it has three projects. Let us get introduced to these projects!
 
